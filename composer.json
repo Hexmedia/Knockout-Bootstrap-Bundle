@@ -23,8 +23,8 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"Hexmedia\\KnockoutBoostrapBundle": ""
+			"Hexmedia\\KnockoutBootstrapBundle": ""
 		}
 	},
-	"target-dir": "Hexmedia/KnockoutBoostrapBundle"
+	"target-dir": "Hexmedia/KnockoutBootstrapBundle"
 }
