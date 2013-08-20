@@ -3,7 +3,7 @@
 	"type": "symfony-bundle",
 	"description": "Symfony2 bootstrap and knockout connection integration.",
 	"keywords": ["knockoutjs", "twitter bootstrap", "bootstrap"],
-	"homepage": "http://www.hexmedia.pl/symfony/administrator",
+	"homepage": "http://www.hexmedia.pl/symfony/knockout-boostrap",
 	"license": "MIT",
 	"authors": [
 		{
@@ -23,8 +23,8 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"Hexmedia\\AdministratorBundle": ""
+			"Hexmedia\\KnockoutBoostrapBundle": ""
 		}
 	},
-	"target-dir": "Hexmedia/AdministratorBundle"
+	"target-dir": "Hexmedia/KnockoutBoostrapBundle"
 }
