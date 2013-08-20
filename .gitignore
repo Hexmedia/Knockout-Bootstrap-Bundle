@@ -1,0 +1,5 @@
+/Resources/knockout-bootstrap/*
+/vendor/*
+/composer.lock
+/build/*
+/cache.properties

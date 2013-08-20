@@ -1,0 +1,7 @@
+parameters:
+#    hexmedia_knockout_bootstrap.example.class: Hexmedia\KnockoutBootstrapBundle\Example
+
+services:
+#    hexmedia_knockout_bootstrap.example:
+#        class: %hexmedia_knockout_bootstrap.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

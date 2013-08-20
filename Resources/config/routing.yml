@@ -1,0 +1,3 @@
+hexmedia_knockout_bootstrap_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: HexmediaKnockoutBootstrapBundle:Default:index }
