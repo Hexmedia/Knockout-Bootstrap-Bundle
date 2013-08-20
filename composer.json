@@ -1,8 +1,8 @@
 {
-	"name": "hexmedia/administrator-bundle",
+	"name": "hexmedia/knockout-bootstrap-bundle",
 	"type": "symfony-bundle",
-	"description": "HexmediaAdministrator panel main bundle",
-	"keywords": ["administrator", "cms", "panel", "admin panel"],
+	"description": "Symfony2 bootstrap and knockout connection integration.",
+	"keywords": ["knockoutjs", "twitter bootstrap", "bootstrap"],
 	"homepage": "http://www.hexmedia.pl/symfony/administrator",
 	"license": "MIT",
 	"authors": [
