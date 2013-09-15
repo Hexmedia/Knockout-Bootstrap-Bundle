@@ -14,7 +14,8 @@
 	<!-- /ko -->
 	</th>
 	<!-- /ko -->
-	<th><a href="#" class="icon-plus" data-bind="route: {name: '{{ addRouteName }}'}"></a></th>
+	<th><a href="#" class="icon-plus" data-bind="route: {name: '{{ addRouteName }}', params:  {% if addParams is defined  %}{{ addParams|json_encode }}{% else %}{}{% endif %} }"></a></th>
 	</tr>
 	</thead>
 	</script>
+
